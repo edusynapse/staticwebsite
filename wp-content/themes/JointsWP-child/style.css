@@ -1,0 +1,45 @@
+/**
+ * Theme Name:     JointsWP - CSS Child
+ * Author:         Your Name Here
+ * Template:       JointsWP
+ * Text Domain:	   jointswp-css-child
+ * Description:    
+ */
+
+.logo img {
+	height:2em;
+}
+.logo {
+	float:left;
+}
+
+.site-title {
+	display: block;
+  float: left;
+  font-size: 1.5em;
+  line-height: 2em;
+  padding-left: 0.5em;
+  font-weight: bolder;
+  color: #6a6a6a;
+}
+
+.top-bar, .top-bar ul {
+  background-color: #fff !important;
+}
+
+header {
+	border-bottom: 0.5em solid aliceblue;
+}
+.home .article-header {
+	display:none;
+}
+
+.show-for-small-only .menu {
+	float:right;
+}
+.show-for-small-only {
+	position: absolute;
+	top: 0.5em;
+	right: 1em;
+	font-size: 1.5em;
+}

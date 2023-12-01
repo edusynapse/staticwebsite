@@ -9,31 +9,41 @@
 
 <channel>
 	<title>Uncategorized &#8211; Edu Synapse</title>
-	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/category/uncategorized/feed/?simply_static_page=37" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Connecting the dots in education</description>
-	<lastBuildDate>Sun, 10 Oct 2021 06:39:12 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Thu, 30 Nov 2023 03:03:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.1</generator>
-	<item>
-		<title>RPI based education tools</title>
-		<link>/2021/10/rpi-based-education-tools/</link>
-					<comments>/2021/10/rpi-based-education-tools/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sun, 10 Oct 2021 06:39:12 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=31</guid>
+	<generator>https://wordpress.org/?v=6.4.1</generator>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+<image>
+	<url>/wp-content/uploads/2023/12/cropped-edusynapse-8-32x32.png</url>
+	<title>Uncategorized &#8211; Edu Synapse</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[edusynapse]]></dc:creator>
+		<pubDate>Thu, 30 Nov 2023 03:03:14 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
 					
-					<wfw:commentRss>/2021/10/rpi-based-education-tools/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
