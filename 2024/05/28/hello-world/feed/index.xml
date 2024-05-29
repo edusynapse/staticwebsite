@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for EduSynapse	</title>
-	<atom:link href="http://localhost/comments/feed/?simply_static_page=23" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Comments on: Know To Win	</title>
+	<atom:link href="http://localhost/2024/05/28/hello-world/feed/?simply_static_page=39" rel="self" type="application/rss+xml" />
+	<link>/2024/05/28/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Wed, 29 May 2024 08:02:58 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
 		<title>
-		Comment on Know To Win by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>/2024/05/28/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
