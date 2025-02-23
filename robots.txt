@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /
+Disallow: /*
+Disallow: /*?
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://edusynapse.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
+Sitemap: https://edusynapse.com/sitemap.xml
+Sitemap: https://edusynapse.com/sitemap.html
