@@ -7,3 +7,17 @@
  * Theme URI:      http://edusynapse.com
  * Author URI:     http://edusynapse.com
  */
+
+
+@media (max-width: 768px) {
+    /* Reduce font size for the highlight section text */
+    .landing-callout {
+        font-size: 24px; /* Adjust this value as needed */
+    }
+
+    /* Reduce padding on the sides for the group block */
+    .wp-block-group {
+        padding-left: var(--wp--preset--spacing--20); /* 0.44rem, about 7px */
+        padding-right: var(--wp--preset--spacing--20); /* 0.44rem, about 7px */
+    }
+}
